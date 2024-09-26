@@ -4,3 +4,17 @@ PlayerType is designed through iterations based on [a series of classic player c
 It aims to reflect the current player profiles and classifications and provides a questionnaire similar to the MBTI for testing and sharing.<br>
 # [References](References)
 [^1] [Richard Bartle. "HEARTS, CLUBS, DIAMONDS, SPADES: PLAYERS WHO SUIT MUDS"](https://mud.co.uk/richard/hcds.htm)
+
+# 文档标题
+
+## 章节1
+
+这是章节1的内容。
+
+## [章节2](#chapter2)
+
+这是章节2的内容。
+
+## 章节3
+
+[返回章节1](#chapter1)
