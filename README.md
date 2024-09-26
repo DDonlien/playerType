@@ -10,56 +10,11 @@ It aims to reflect the current player profiles and classifications and provides 
 ## 章节1
 
 这是章节1的内容。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ## [章节2](#chapter2)
 
 这是章节2的内容。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ## 章节3
 
 [返回章节1](#chapter1)
